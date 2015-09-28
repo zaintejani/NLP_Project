@@ -5,7 +5,7 @@ Slides, code, and certain datasets for my NLP Word Predictor project. The two ve
 
   **Data cleaning scripts:** This folder contains scripts used for cleaning and processing raw data into n-gram tables, as well as the raw training sample for the model and the final data tables.
 
-  **Slides:** This folder contains a deck of 5 HTML5 slides to pitch the app and provide details, written using the Rpubs package in RStudio. These slides can be viewed by downloading the file, or alternatively by copying the source code and saving with an HTML extension.
+  **FinalSlides:** This folder contains a deck of 5 HTML5 slides to pitch the app and provide details, written using the Rpubs package in RStudio. These slides can be viewed by downloading the file, or alternatively by copying the source code and saving with an HTML extension.
 
   **Links** to each of the apps can be found below (Hosted on shinyapps.io)
 
